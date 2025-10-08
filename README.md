@@ -7,7 +7,7 @@ I developed an interactive Profit and Loss (P&L) Report for movie data using Exc
 
 The project’s goal is to study movie data to find which studios and films perform best financially. It helps businesses make smarter choices to improve profit and control costs.
 
-##Technical & Soft Skills
+## Technical & Soft Skills
 
   1.Proficient in ETL methodology (Extract, Transform, Load).
   
