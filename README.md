@@ -3,10 +3,12 @@
 ## Project Overview
 I developed an interactive Profit and Loss (P&L) Report for movie data using Excel to analyze studio-wise and movie-wise financial performance. The report highlights key metrics such as revenue, budget, and profit margins, helping identify top-performing studios and movies. It provides valuable insights for improving investment decisions, optimizing budgets, and maximizing profitability in the film industry.
 
-## Project Goal
+## Project Goal or Problem statement
+
 The project’s goal is to study movie data to find which studios and films perform best financially. It helps businesses make smarter choices to improve profit and control costs.
 
 ##Technical & Soft Skills
+
   1.Proficient in ETL methodology (Extract, Transform, Load).
   
   2.Power Query. 
